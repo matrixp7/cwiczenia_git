@@ -1,2 +1,1 @@
-# cwiczenia_git
-Ćwiczenia_git
+README - wersja 1: Master
